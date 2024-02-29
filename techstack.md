@@ -3,25 +3,25 @@
 ## Tech Stack
 ashleanichols/Appo-Music is built on the following main stack:
 
-- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
+- [CoffeeScript](http://coffeescript.org/) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Ruby](https://www.ruby-lang.org) – Languages
 - [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
-- [jQuery](http://jquery.com/) – Javascript UI Libraries
-- [PostgreSQL](http://www.postgresql.org/) – Databases
-- [Puma](http://puma.io/) – Web Servers
-- [CoffeeScript](http://coffeescript.org/) – Languages
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Rails Spring](https://github.com/rails/spring) – Rails Testing
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [UglifyJS](http://lisperator.net/uglifyjs/) – Javascript Utilities & Libraries
-- [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [ESLint](http://eslint.org/) – Code Review
 - [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - [Redux](https://redux.js.org/) – State Management Library
+- [jQuery](http://jquery.com/) – Javascript UI Libraries
 - [redux-thunk](https://github.com/gaearon/redux-thunk) – State Management Library
+- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
+- [ESLint](http://eslint.org/) – Code Review
+- [Puma](http://puma.io/) – Web Servers
+- [Rails Spring](https://github.com/rails/spring) – Rails Testing
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
+- [UglifyJS](http://lisperator.net/uglifyjs/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -31,25 +31,25 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ashleanichols/Appo-Music is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
+- <img width='25' height='25' src='https://img.stackshare.io/service/1178/slQydAMv.png' alt='CoffeeScript'/> [CoffeeScript](http://coffeescript.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/990/x57_Lorv.png' alt='Rails'/> [Rails](http://rubyonrails.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1178/slQydAMv.png' alt='CoffeeScript'/> [CoffeeScript](http://coffeescript.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Rails Spring'/> [Rails Spring](https://github.com/rails/spring) – Rails Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/2203/default_9058af6f02375a99f634f537d727e32df92ac262.png' alt='UglifyJS'/> [UglifyJS](http://lisperator.net/uglifyjs/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/2595/capybara.png' alt='Capybara'/> [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
 - <img width='25' height='25' src='https://img.stackshare.io/service/4074/13142323.png' alt='Redux'/> [Redux](https://redux.js.org/) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' alt='jQuery'/> [jQuery](http://jquery.com/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/5448/13142323.png' alt='redux-thunk'/> [redux-thunk](https://github.com/gaearon/redux-thunk) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/2595/capybara.png' alt='Capybara'/> [Capybara](http://jnicklas.github.io/capybara/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1055/favicon.png' alt='Puma'/> [Puma](http://puma.io/) – Web Servers
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Rails Spring'/> [Rails Spring](https://github.com/rails/spring) – Rails Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Bootsnap'/> [Bootsnap](https://github.com/shopify/bootsnap) – Ruby Utilities
+- <img width='25' height='25' src='https://img.stackshare.io/service/2203/default_9058af6f02375a99f634f537d727e32df92ac262.png' alt='UglifyJS'/> [UglifyJS](http://lisperator.net/uglifyjs/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -60,7 +60,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ashleanichols/Appo-Music](https://github.com/ashleanichols/Appo-Music)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|51<br/>Tools used|01/05/24 <br/>Report generated|
+|51<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
